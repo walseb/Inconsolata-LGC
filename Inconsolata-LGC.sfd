@@ -8007,6 +8007,16 @@ Encoding: 1075 1075 402
 Width: 600
 Flags: MW
 LayerCount: 2
+Fore
+SplineSet
+100.5 0 m 0
+ 100.5 531 l 0
+ 496.5 530 l 0
+ 496.5 457 l 0
+ 182.5 458 l 0
+ 182.5 0 l 0
+ 100.5 0 l 0
+EndSplineSet
 EndChar
 
 StartChar: afii10069
@@ -8044,6 +8054,20 @@ Encoding: 1080 1080 407
 Width: 600
 Flags: MW
 LayerCount: 2
+Fore
+SplineSet
+82.999 0 m 0
+ 82.999 529 l 0
+ 166.999 529 l 1
+ 166.999 146.394 l 1
+ 433.999 529 l 0
+ 513.998 529 l 1
+ 513.998 0 l 0
+ 434.999 0 l 0
+ 435.999 416.162 l 1
+ 147.499 0 l 0
+ 82.999 0 l 0
+EndSplineSet
 EndChar
 
 StartChar: afii10075
@@ -8051,6 +8075,9 @@ Encoding: 1081 1081 408
 Width: 600
 Flags: MW
 LayerCount: 2
+Fore
+Refer: 241 728 S 1 0 0 1 10 0 2
+Refer: 407 1080 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10076
@@ -8074,6 +8101,23 @@ Encoding: 1084 1084 411
 Width: 600
 Flags: MW
 LayerCount: 2
+Fore
+SplineSet
+57 529.6 m 0
+ 121 529.6 l 0
+ 300 280.8 l 0
+ 482 530.6 l 0
+ 543 530.6 l 0
+ 543 -1 l 0
+ 466 -1 l 0
+ 466 394 l 0
+ 310 169.93 l 0
+ 279 169.93 l 0
+ 133 390.92 l 0
+ 133 -1 l 0
+ 57 -1 l 0
+ 57 529.6 l 0
+EndSplineSet
 EndChar
 
 StartChar: afii10079
@@ -8081,6 +8125,22 @@ Encoding: 1085 1085 412
 Width: 600
 Flags: MW
 LayerCount: 2
+Fore
+SplineSet
+82.168 0 m 0
+ 82.168 528.7 l 0
+ 166.168 528.7 l 1
+ 166.168 308 l 0
+ 435.168 308 l 0
+ 435.168 528.7 l 0
+ 516.168 528.7 l 1
+ 516.168 -1 l 0
+ 434.168 -1 l 0
+ 434.168 239 l 0
+ 166.168 239 l 0
+ 166.168 0 l 0
+ 82.168 0 l 0
+EndSplineSet
 EndChar
 
 StartChar: afii10080
@@ -8097,6 +8157,18 @@ Encoding: 1087 1087 414
 Width: 600
 Flags: MW
 LayerCount: 2
+Fore
+SplineSet
+82.168 0 m 0
+ 82.168 528.7 l 0
+ 516.168 528.7 l 0
+ 516.168 -1 l 0
+ 434.168 -1 l 0
+ 434.168 459.7 l 0
+ 166.168 459.7 l 0
+ 166.168 0 l 0
+ 82.168 0 l 0
+EndSplineSet
 EndChar
 
 StartChar: afii10082
@@ -8168,6 +8240,22 @@ Encoding: 1094 1094 421
 Width: 600
 Flags: MW
 LayerCount: 2
+Fore
+SplineSet
+164.5 530 m 1
+ 164.5 69 l 0
+ 430.5 69 l 0
+ 430.5 530 l 0
+ 511.5 530 l 1
+ 511.5 69 l 0
+ 592.5 69 l 1
+ 592.5 -193 l 0
+ 511.5 -193 l 0
+ 511.5 0 l 1
+ 80.5 0 l 0
+ 80.5 530 l 0
+ 164.5 530 l 1
+EndSplineSet
 EndChar
 
 StartChar: afii10089
