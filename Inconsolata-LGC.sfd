@@ -79,7 +79,7 @@ Grid
  406.5 917 l 25
 EndSplineSet
 TeXData: 1 0 0 629145 314572 209715 554697 1048576 209715 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65544 431
+BeginChars: 65544 433
 
 StartChar: a
 Encoding: 97 97 0
@@ -8925,6 +8925,26 @@ SplineSet
  277.781 459.1 274.479 458.773 245.091 450.386 c 0
  198.068 436.965 189.776 408.13 189.776 377.306 c 0
 EndSplineSet
+EndChar
+
+StartChar: afii10023
+Encoding: 1025 1025 431
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 139 168 S 1 0 0 1 -5 144 2
+Refer: 372 1045 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10071
+Encoding: 1105 1105 432
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 139 168 N 1 0 0 1 2 0 2
+Refer: 404 1077 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
