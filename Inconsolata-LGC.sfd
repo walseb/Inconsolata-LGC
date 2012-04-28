@@ -7691,6 +7691,22 @@ Encoding: 1048 1048 375
 Width: 600
 Flags: MW
 LayerCount: 2
+Fore
+SplineSet
+68 0 m 0
+ 68 722 l 0
+ 158 722 l 0
+ 158.822 720.356 159.252 718.529 159.252 716.663 c 0
+ 159.252 707.549 152 706.38 152 694 c 0
+ 152 198.5 l 1
+ 448 722 l 0
+ 527.999 722 l 1
+ 527.999 -1 l 0
+ 449 -1 l 0
+ 450 569 l 1
+ 132.5 0 l 0
+ 68 0 l 0
+EndSplineSet
 EndChar
 
 StartChar: afii10027
@@ -7698,6 +7714,9 @@ Encoding: 1049 1049 376
 Width: 600
 Flags: MW
 LayerCount: 2
+Fore
+Refer: 241 728 S 1 0 0 1 -11 160 2
+Refer: 375 1048 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10028
