@@ -8959,6 +8959,9 @@ Encoding: 1027 1027 434
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+Refer: 194 -1 S 1 0 0 1 -20 138 2
+Refer: 370 1043 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10053
@@ -8973,6 +8976,8 @@ Encoding: 1029 1029 436
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+Refer: 50 83 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10055
@@ -8980,6 +8985,8 @@ Encoding: 1030 1030 437
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+Refer: 4 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10056
@@ -8987,6 +8994,9 @@ Encoding: 1031 1031 438
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+Refer: 139 168 S 1 0 0 1 -13 144 2
+Refer: 4 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10057
@@ -8994,6 +9004,8 @@ Encoding: 1032 1032 439
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+Refer: 83 74 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10058
@@ -9022,6 +9034,9 @@ Encoding: 1036 1036 443
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+Refer: 194 -1 S 1 0 0 1 -20 138 2
+Refer: 377 1050 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10062
@@ -9029,6 +9044,9 @@ Encoding: 1038 1038 444
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+Refer: 241 728 S 1 0 0 1 -11 160 2
+Refer: 386 1059 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10145
@@ -9050,6 +9068,9 @@ Encoding: 1107 1107 447
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+Refer: 107 180 S 1 0 0 1 0 0 2
+Refer: 402 1075 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10101
@@ -9064,6 +9085,8 @@ Encoding: 1109 1109 449
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+Refer: 3 115 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10103
@@ -9071,6 +9094,8 @@ Encoding: 1110 1110 450
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+Refer: 17 105 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10104
@@ -9078,6 +9103,9 @@ Encoding: 1111 1111 451
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+Refer: 136 305 N 1 0 0 1 0 0 2
+Refer: 139 168 S 1 0 0 1 -2 0 2
 EndChar
 
 StartChar: afii10105
@@ -9085,6 +9113,8 @@ Encoding: 1112 1112 452
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+Refer: 65 106 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10106
@@ -9113,6 +9143,9 @@ Encoding: 1116 1116 456
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+Refer: 107 180 S 1 0 0 1 0 0 2
+Refer: 409 1082 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10110
@@ -9120,6 +9153,9 @@ Encoding: 1118 1118 457
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+Refer: 241 728 S 1 0 0 1 10 0 2
+Refer: 418 1091 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10193
