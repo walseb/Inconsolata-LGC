@@ -9193,6 +9193,26 @@ Encoding: 1039 1039 445
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+346 -168 m 1
+ 265 -168 l 1
+ 265 0 l 1
+ 63.168 0 l 1
+ 63.168 722 l 1
+ 153.168 722 l 1
+ 153.99 720.356 154.42 718.529 154.42 716.663 c 0
+ 154.42 707.549 147.168 706.38 147.168 694 c 2
+ 147.168 69 l 1
+ 459.168 69 l 1
+ 459.168 722 l 1
+ 547.168 722 l 1
+ 548.04 720.545 548.504 718.864 548.504 717.137 c 0
+ 548.504 708.363 540.168 708.006 540.168 696 c 2
+ 540.168 0 l 1
+ 346 0 l 1
+ 346 -168 l 1
+EndSplineSet
 EndChar
 
 StartChar: afii10099
@@ -9455,6 +9475,22 @@ Encoding: 1119 1119 458
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+157.168 69 m 1
+ 449.168 69 l 1
+ 449.168 530 l 1
+ 530.168 530 l 1
+ 530.168 0 l 1
+ 346 -3.33761e-15 l 1
+ 346 -168 l 1
+ 265 -168 l 1
+ 265 -1.55431e-15 l 1
+ 73.168 0 l 1
+ 73.168 530 l 1
+ 157.168 530 l 1
+ 157.168 69 l 1
+EndSplineSet
 EndChar
 
 StartChar: afii10050
@@ -9462,6 +9498,21 @@ Encoding: 1168 1168 459
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+155 414 m 2
+ 155 340 l 1
+ 155 72 l 2
+ 155.083 43.917 155.61 28.0801 156 0 c 1
+ 78 0 l 1
+ 78 723 l 1
+ 439 723 l 1
+ 439 917 l 1
+ 521 917 l 1
+ 521 651 l 1
+ 155 651 l 1
+ 155 414 l 2
+EndSplineSet
 EndChar
 
 StartChar: afii10098
@@ -9469,6 +9520,18 @@ Encoding: 1169 1169 460
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+100.5 0 m 1
+ 100.5 531 l 1
+ 414.5 530.143 l 1
+ 414.5 674.7 l 1
+ 496.5 674.7 l 1
+ 496.5 457 l 1
+ 182.5 458 l 1
+ 182.5 0 l 1
+ 100.5 0 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
