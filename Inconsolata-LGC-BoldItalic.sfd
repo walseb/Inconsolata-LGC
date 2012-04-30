@@ -41,6 +41,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "Macedonian-Serbian Italic"  {"Macedonian-Serbian Italic subtable" ("mkd" ) } ['locl' ('cyrl' <'MKD ' 'SRB ' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
@@ -79,7 +80,7 @@ Grid
  406.5 917 l 25
 EndSplineSet
 TeXData: 1 0 0 629145 314572 209715 554697 1048576 209715 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65544 461
+BeginChars: 65550 467
 
 StartChar: a
 Encoding: 97 97 0
@@ -8259,6 +8260,7 @@ SplineSet
  573.848 89.2354 436.789 -14 302.5 -14 c 0
  214.31 -14 147.982 20.4678 114.521 85.3906 c 0
 EndSplineSet
+Substitution2: "Macedonian-Serbian Italic subtable" afii10066.mkd
 EndChar
 
 StartChar: afii10067
@@ -8335,6 +8337,7 @@ SplineSet
  466.621 15.2585 377.757 -12 294.121 -12 c 0
  273.785 -12 254.914 -10.3798 237.495 -7.32649 c 0
 EndSplineSet
+Substitution2: "Macedonian-Serbian Italic subtable" afii10068.mkd
 EndChar
 
 StartChar: afii10069
@@ -8344,6 +8347,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 13 103 N 1 0 0 1 0 0 2
+Substitution2: "Macedonian-Serbian Italic subtable" afii10069.mkd
 EndChar
 
 StartChar: afii10070
@@ -8590,6 +8594,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 6 110 N 1 0 0 1 0 0 2
+Substitution2: "Macedonian-Serbian Italic subtable" afii10081.mkd
 EndChar
 
 StartChar: afii10082
@@ -8617,6 +8622,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 2 109 N 1 0 0 1 0 0 2
+Substitution2: "Macedonian-Serbian Italic subtable" afii10084.mkd
 EndChar
 
 StartChar: afii10085
@@ -9376,6 +9382,7 @@ LayerCount: 2
 Fore
 Refer: 107 180 S 1 0 0 1 0 0 2
 Refer: 402 1075 N 1 0 0 1 0 0 2
+Substitution2: "Macedonian-Serbian Italic subtable" afii10100.mkd
 EndChar
 
 StartChar: afii10101
@@ -9678,6 +9685,70 @@ SplineSet
  275.844 428 l 1
  195.086 0 l 1
 EndSplineSet
+EndChar
+
+StartChar: afii10066.mkd
+Encoding: 65544 -1 461
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 297 948 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10068.mkd
+Encoding: 65545 -1 462
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 198 713 N 1 0 0 1 0 0 2
+Refer: 136 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10069.mkd
+Encoding: 65546 -1 463
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 403 1076 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10081.mkd
+Encoding: 65547 -1 464
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 198 713 N 1 0 0 1 0 0 2
+Refer: 15 117 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10084.mkd
+Encoding: 65548 -1 465
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+198.204 625 m 1
+ 214.955 720 l 1
+ 638.955 720 l 1
+ 622.204 625 l 1
+ 198.204 625 l 1
+EndSplineSet
+Refer: 423 1096 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10100.mkd
+Encoding: 65549 -1 466
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 194 -1 S 1 0 0 1 4.33312 138 2
+Refer: 462 -1 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
