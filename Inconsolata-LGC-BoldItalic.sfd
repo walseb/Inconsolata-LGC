@@ -1,11 +1,11 @@
 SplineFontDB: 3.0
-FontName: InconsolataLGC-BoldItalic
+FontName: InconsolataLGC-Bold-Italic
 FullName: Inconsolata LGC Bold Italic
 FamilyName: Inconsolata LGC
-Weight: Bold Italic
+Weight: Bold-Italic
 Copyright: Created by Raph Levien using his own tools and FontForge. Copyright 2006 Raph Levien. Released under the SIL Open Font License, http://scripts.sil.org/OFL.\n\nHellenisation of the Roman font, by Dimosthenis Kaponis, using FontForge. Hellenic glyphs Copyright 2010-2012 Dimosthenis Kaponis. Released under the SIL Open Font License, http://scripts.sil.org/OFL.\n\nCyrillic glyphs added by MihailJP, using FontForge. Cyrillic glyphs Copyright 2012 MihailJP. Released under the SIL Open Font License, http://scripts.sil.org/OFL.\n\nEmboldened and italicized by MihailJP.
 UComments: "2005-8-26: Created." 
-Version: 1.0.0
+Version: 1.0.1
 ItalicAngle: -10
 UnderlinePosition: -100
 UnderlineWidth: 50
