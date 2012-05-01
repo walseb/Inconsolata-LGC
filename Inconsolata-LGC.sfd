@@ -79,7 +79,7 @@ Grid
  406.5 917 l 25
 EndSplineSet
 TeXData: 1 0 0 629145 314572 209715 554697 1048576 209715 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65544 527
+BeginChars: 65544 541
 
 StartChar: a
 Encoding: 97 97 0
@@ -10437,6 +10437,148 @@ SplineSet
  278 -0 l 1
  198 0 l 1
 EndSplineSet
+EndChar
+
+StartChar: Aringacute
+Encoding: 506 506 527
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 194 -1 N 1 0 0 1 -20 270 2
+Refer: 71 65 N 1 0 0 1 0 0 2
+Refer: 161 730 S 1 0 0 1 -19 91 2
+EndChar
+
+StartChar: aringacute
+Encoding: 507 507 528
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 194 -1 N 1 0 0 1 -20 138 2
+Refer: 0 97 N 1 0 0 1 0 0 2
+Refer: 161 730 N 1 0 0 1 0 -54 2
+EndChar
+
+StartChar: AEacute
+Encoding: 508 508 529
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 194 -1 S 1 0 0 1 -20 138 2
+Refer: 208 198 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: aeacute
+Encoding: 509 509 530
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 107 180 S 1 0 0 1 0 0 2
+Refer: 192 230 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Oslashacute
+Encoding: 510 510 531
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 194 -1 S 1 0 0 1 -20 138 2
+Refer: 206 216 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: oslashacute
+Encoding: 511 511 532
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 107 180 S 1 0 0 1 0 0 2
+Refer: 123 248 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Wgrave
+Encoding: 7808 7808 533
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 195 -1 S 1 0 0 1 -30 138 2
+Refer: 106 87 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: wgrave
+Encoding: 7809 7809 534
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 130 715 S 1 0 0 1 0 0 2
+Refer: 55 119 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Wacute
+Encoding: 7810 7810 535
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 194 -1 S 1 0 0 1 0 138 2
+Refer: 106 87 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: wacute
+Encoding: 7811 7811 536
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 107 180 S 1 0 0 1 0 0 2
+Refer: 55 119 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Wdieresis
+Encoding: 7812 7812 537
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 139 168 S 1 0 0 1 -5 144 2
+Refer: 106 87 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: wdieresis
+Encoding: 7813 7813 538
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 139 168 S 1 0 0 1 2 0 2
+Refer: 55 119 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ygrave
+Encoding: 7922 7922 539
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 94 89 N 1 0 0 1 0 0 2
+Refer: 195 -1 S 1 0 0 1 -30 138 2
+EndChar
+
+StartChar: ygrave
+Encoding: 7923 7923 540
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 23 121 N 1 0 0 1 0 0 2
+Refer: 130 715 S 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
