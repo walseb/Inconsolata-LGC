@@ -79,7 +79,7 @@ Grid
  406.5 917 l 25
 EndSplineSet
 TeXData: 1 0 0 629145 314572 209715 554697 1048576 209715 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65544 480
+BeginChars: 65544 511
 
 StartChar: a
 Encoding: 97 97 0
@@ -10073,6 +10073,399 @@ LayerCount: 2
 Fore
 Refer: 137 710 S 1 0 0 1 -14 0 2
 Refer: 3 115 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Rcommaaccent
+Encoding: 342 342 480
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 101 82 N 1 0 0 1 0 0 2
+Refer: 328 900 S 1 0 0 1 0 -810 2
+EndChar
+
+StartChar: Itilde
+Encoding: 296 296 481
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 73 N 1 0 0 1 0 0 2
+Refer: 138 732 S 1 0 0 1 -5 146 2
+EndChar
+
+StartChar: Lcommaaccent
+Encoding: 315 315 482
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 52 76 N 1 0 0 1 0 0 2
+Refer: 328 900 S 1 0 0 1 0 -810 2
+EndChar
+
+StartChar: Emacron
+Encoding: 274 274 483
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 80 69 N 1 0 0 1 0 0 2
+Refer: 198 713 N 1 0 0 1 0 197 2
+EndChar
+
+StartChar: Gcommaaccent
+Encoding: 290 290 484
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 67 71 N 1 0 0 1 0 0 2
+Refer: 328 900 S 1 0 0 1 0 -810 2
+EndChar
+
+StartChar: Tbar
+Encoding: 358 358 485
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+31 620 m 1
+ 31 723 l 1
+ 561 723 l 1
+ 561 620 l 1
+ 348 620 l 1
+ 348 435 l 1
+ 512 435 l 1
+ 512 340 l 1
+ 348 340 l 1
+ 348 -1 l 1
+ 236 -1 l 1
+ 236 340 l 1
+ 84 340 l 1
+ 84 435 l 1
+ 236 435 l 1
+ 236 620 l 1
+ 31 620 l 1
+EndSplineSet
+EndChar
+
+StartChar: rcommaaccent
+Encoding: 343 343 486
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 16 114 N 1 0 0 1 0 0 2
+Refer: 328 900 S 1 0 0 1 0 -810 2
+EndChar
+
+StartChar: itilde
+Encoding: 297 297 487
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 136 305 N 1 0 0 1 0 0 2
+Refer: 138 732 S 1 0 0 1 11 0 2
+EndChar
+
+StartChar: lcommaaccent
+Encoding: 316 316 488
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 7 108 N 1 0 0 1 0 0 2
+Refer: 328 900 S 1 0 0 1 0 -810 2
+EndChar
+
+StartChar: emacron
+Encoding: 275 275 489
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 9 101 N 1 0 0 1 0 0 2
+Refer: 198 713 S 1 0 0 1 0 0 2
+EndChar
+
+StartChar: gcommaaccent
+Encoding: 291 291 490
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 13 103 N 1 0 0 1 0 0 2
+Refer: 328 900 N -1 0 0 -1 605 1392 2
+EndChar
+
+StartChar: tbar
+Encoding: 359 359 491
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+204.019 529 m 1
+ 213.869 668.873 l 1
+ 327.471 687.599 l 1
+ 332.416 677.708 l 0
+ 335.276 671.989 335 666.811 335 665 c 0
+ 335 649.283 327.626 640.987 326.761 637.328 c 1
+ 323.1 614.823 317.79 557.424 315.359 530 c 1
+ 487 530 l 1
+ 487 431 l 1
+ 311.606 431 l 1
+ 308.074 398.387 305.777 366.325 304.448 335 c 1
+ 462.002 335 l 1
+ 462.002 240 l 1
+ 303.035 240 l 1
+ 303.389 181.893 305.654 168.337 305.975 161.491 c 1
+ 314.295 111.526 347.467 97 380 97 c 0
+ 408.501 97 446.777 110.304 490.13 142.096 c 0
+ 505.823 153.605 l 1
+ 543.194 58.7409 l 1
+ 533.87 51.9039 l 0
+ 486.817 17.3976 423.106 -10 356 -10 c 0
+ 298.061 -10 250.96 11.5559 222.766 48.7926 c 1
+ 188.339 94.8906 189 148.82 189 192.83 c 0
+ 189 208.486 189.148 224.711 189.403 240 c 1
+ 82.001 240 l 1
+ 82.001 335 l 1
+ 192.284 335 l 1
+ 193.975 367.982 196.115 398.746 198.833 431 c 1
+ 75.7778 431 l 1
+ 77.219 529 l 1
+ 204.019 529 l 1
+EndSplineSet
+EndChar
+
+StartChar: Amacron
+Encoding: 256 256 492
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 71 65 N 1 0 0 1 0 0 2
+Refer: 198 713 S 1 0 0 1 0 197 2
+EndChar
+
+StartChar: Iogonek
+Encoding: 302 302 493
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 73 N 1 0 0 1 0 0 2
+Refer: 214 731 S 1 0 0 1 -140 0 2
+EndChar
+
+StartChar: Edotaccent
+Encoding: 278 278 494
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 80 69 N 1 0 0 1 0 0 2
+Refer: 222 729 S 1 0 0 1 0 147 2
+EndChar
+
+StartChar: Imacron
+Encoding: 298 298 495
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 73 N 1 0 0 1 0 0 2
+Refer: 198 713 S 1 0 0 1 0 197 2
+EndChar
+
+StartChar: Ncommaaccent
+Encoding: 325 325 496
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 46 78 N 1 0 0 1 0 0 2
+Refer: 328 900 S 1 0 0 1 0 -810 2
+EndChar
+
+StartChar: Omacron
+Encoding: 332 332 497
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 42 79 N 1 0 0 1 0 0 2
+Refer: 198 713 S 1 0 0 1 0 197 2
+EndChar
+
+StartChar: Kcommaaccent
+Encoding: 310 310 498
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 84 75 N 1 0 0 1 0 0 2
+Refer: 328 900 S 1 0 0 1 0 -810 2
+EndChar
+
+StartChar: Uogonek
+Encoding: 370 370 499
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+53 253.135 m 2
+ 53 722 l 1
+ 168.873 722 l 1
+ 172.777 712.932 l 2
+ 174.382 709.374 175.2 705.548 175.2 701.688 c 0
+ 175.2 688.566 166.491 680.441 164.796 678.167 c 0
+ 162.354 674.888 163 676.308 163 671.96 c 2
+ 163 254.914 l 2
+ 163 220.739 163.879 190.121 178.924 159.415 c 0
+ 202.224 111.861 251.009 85.9209 303.067 85.9209 c 0
+ 354.255 85.9209 402.976 111.258 426.962 158.647 c 0
+ 443.042 190.417 444 222.298 444 257.889 c 2
+ 444 722 l 1
+ 551 722 l 1
+ 551 256.979 l 2
+ 551 206.129 549.57 154.815 520.269 102.926 c 0
+ 513.251 90.5 506.083 79.428 497.089 69.0384 c 1
+ 497.089 69.0384 497.045 69.0193 497 69 c 0
+ 494.362 66.3127 491.725 63.6253 489.087 60.938 c 0
+ 487.853 59.6482 486.604 58.3755 485.34 57.12 c 2
+ 419.009 -10.4639 l 1
+ 380.297 -42.2617 351.791 -71.0215 342.054 -81.1064 c 0
+ 333.927 -89.5234 324.048 -100.944 324.048 -114.147 c 0
+ 324.048 -127.628 334.161 -138.797 351.947 -138.797 c 0
+ 358.17 -138.797 365.99 -137.343 377.804 -133.041 c 0
+ 395.22 -126.698 406.238 -119.132 413.169 -113.382 c 2
+ 423 -105.226 l 1
+ 423 -173.74 l 1
+ 420.929 -175.534 l 2
+ 396.829 -196.419 366.674 -204.002 336.9 -204.002 c 0
+ 274.603 -204.002 240.051 -171.589 240.051 -131.394 c 0
+ 240.051 -96.084 268.682 -55.4164 320.354 -12.487 c 1
+ 314.071 -12.8782 307.768 -13.0732 301.461 -13.0732 c 0
+ 212.016 -13.0732 126.087 25.4688 82.9365 102.388 c 0
+ 54.25 153.525 53 204.017 53 253.135 c 2
+EndSplineSet
+EndChar
+
+StartChar: Utilde
+Encoding: 360 360 500
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 63 85 N 1 0 0 1 0 0 2
+Refer: 138 732 S 1 0 0 1 -5 146 2
+EndChar
+
+StartChar: Umacron
+Encoding: 362 362 501
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 63 85 N 1 0 0 1 0 0 2
+Refer: 198 713 S 1 0 0 1 0 197 2
+EndChar
+
+StartChar: amacron
+Encoding: 257 257 502
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 0 97 N 1 0 0 1 0 0 2
+Refer: 198 713 S 1 0 0 1 0 0 2
+EndChar
+
+StartChar: iogonek
+Encoding: 303 303 503
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 17 105 N 1 0 0 1 0 0 2
+Refer: 214 731 S 1 0 0 1 -140 0 2
+EndChar
+
+StartChar: edotaccent
+Encoding: 279 279 504
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 9 101 N 1 0 0 1 0 0 2
+Refer: 222 729 S 1 0 0 1 0 0 2
+EndChar
+
+StartChar: imacron
+Encoding: 299 299 505
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 136 305 N 1 0 0 1 0 0 2
+Refer: 198 713 S 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ncommaaccent
+Encoding: 326 326 506
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 6 110 N 1 0 0 1 0 0 2
+Refer: 328 900 S 1 0 0 1 0 -810 2
+EndChar
+
+StartChar: kcommaaccent
+Encoding: 311 311 507
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 68 107 N 1 0 0 1 0 0 2
+Refer: 328 900 N 1 0 0 1 0 -810 2
+EndChar
+
+StartChar: uogonek
+Encoding: 371 371 508
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 15 117 N 1 0 0 1 0 0 2
+Refer: 214 731 N 1 0 0 1 20 0 2
+EndChar
+
+StartChar: utilde
+Encoding: 361 361 509
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 15 117 N 1 0 0 1 0 0 2
+Refer: 138 732 S 1 0 0 1 11 0 2
+EndChar
+
+StartChar: umacron
+Encoding: 363 363 510
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 15 117 N 1 0 0 1 0 0 2
+Refer: 198 713 S 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
