@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1161020814
-ModificationTime: 1344355697
+ModificationTime: 1356504520
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -41,6 +41,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "Polish kreska forms"  {"Polish kreska forms-1" ("pl" ) } ['loca' ('latn' <'PLK ' > ) ]
 Lookup: 1 0 0 "Macedonian-Serbian Italic"  {"Macedonian-Serbian Italic subtable" ("mkd" ) } ['locl' ('cyrl' <'MKD ' 'SRB ' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -51,7 +52,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 912 16 4
+WinInfo: 32 16 4
 BeginPrivate: 6
 BlueValues 31 [-14 0 529 542 722 730 749 777]
 OtherBlues 11 [-201 -193]
@@ -80,7 +81,7 @@ Grid
  406.5 917 l 25
 EndSplineSet
 TeXData: 1 0 0 629145 314572 209715 554697 1048576 209715 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65550 668
+BeginChars: 65562 680
 
 StartChar: a
 Encoding: 97 97 0
@@ -3007,6 +3008,7 @@ LayerCount: 2
 Fore
 Refer: 107 180 S 1 0 0 1 0 0 2
 Refer: 5 111 N 1 0 0 1 0 0 2
+Substitution2: "Polish kreska forms-1" oacute.pl
 EndChar
 
 StartChar: ocircumflex
@@ -3983,6 +3985,7 @@ LayerCount: 2
 Fore
 Refer: 194 -1 S 1 0 0 1 24.3331 138 2
 Refer: 42 79 N 1 0 0 1 0 0 2
+Substitution2: "Polish kreska forms-1" Oacute.pl
 EndChar
 
 StartChar: Ocircumflex
@@ -4752,6 +4755,7 @@ LayerCount: 2
 Fore
 Refer: 194 -1 S 1 0 0 1 4.33312 138 2
 Refer: 50 83 N 1 0 0 1 0 0 2
+Substitution2: "Polish kreska forms-1" Sacute.pl
 EndChar
 
 StartChar: Scedilla
@@ -4785,6 +4789,7 @@ LayerCount: 2
 Fore
 Refer: 194 -1 S 1 0 0 1 4.33312 138 2
 Refer: 96 90 N 1 0 0 1 0 0 2
+Substitution2: "Polish kreska forms-1" Zacute.pl
 EndChar
 
 StartChar: Zdotaccent
@@ -4856,6 +4861,7 @@ LayerCount: 2
 Fore
 Refer: 194 -1 S 1 0 0 1 4.33312 138 2
 Refer: 72 67 N 1 0 0 1 0 0 2
+Substitution2: "Polish kreska forms-1" Cacute.pl
 EndChar
 
 StartChar: Ccaron
@@ -4921,6 +4927,7 @@ LayerCount: 2
 Fore
 Refer: 194 -1 S 1 0 0 1 4.33312 138 2
 Refer: 46 78 N 1 0 0 1 0 0 2
+Substitution2: "Polish kreska forms-1" Nacute.pl
 EndChar
 
 StartChar: Ncaron
@@ -5178,6 +5185,7 @@ LayerCount: 2
 Fore
 Refer: 107 180 S 1 0 0 1 0 0 2
 Refer: 6 110 N 1 0 0 1 0 0 2
+Substitution2: "Polish kreska forms-1" nacute.pl
 EndChar
 
 StartChar: ncaron
@@ -5218,6 +5226,7 @@ LayerCount: 2
 Fore
 Refer: 107 180 S 1 0 0 1 0 0 2
 Refer: 3 115 N 1 0 0 1 0 0 2
+Substitution2: "Polish kreska forms-1" sacute.pl
 EndChar
 
 StartChar: scedilla
@@ -5693,6 +5702,7 @@ LayerCount: 2
 Fore
 Refer: 107 180 S 1 0 0 1 0 0 2
 Refer: 1 99 N 1 0 0 1 0 0 2
+Substitution2: "Polish kreska forms-1" cacute.pl
 EndChar
 
 StartChar: ecaron
@@ -5733,6 +5743,7 @@ LayerCount: 2
 Fore
 Refer: 107 180 S 1 0 0 1 0 0 2
 Refer: 69 122 N 1 0 0 1 0 0 2
+Substitution2: "Polish kreska forms-1" zacute.pl
 EndChar
 
 StartChar: tcaron
@@ -13616,6 +13627,244 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 19 118 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: acute.cap.pl
+Encoding: 65550 -1 668
+Width: 600
+Flags: W
+HStem: 627 155.344
+VStem: 265 113.325
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+425.153320312 782.34375 m 4
+ 512.862304688 763 l 4
+ 429.381835938 627 l 4
+ 377.612304688 638.657226562 l 4
+ 425.153320312 782.34375 l 4
+EndSplineSet
+EndChar
+
+StartChar: acute.pl
+Encoding: 65551 -1 669
+Width: 600
+Flags: W
+HStem: 618.844 207.269
+VStem: 265 120.655
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+445.681640625 826.112304688 m 0
+ 527.8125 806.21484375 l 0
+ 440.765625 618.84375 l 0
+ 376.2578125 630.9765625 l 0
+ 445.681640625 826.112304688 l 0
+EndSplineSet
+EndChar
+
+StartChar: Cacute.pl
+Encoding: 65552 -1 670
+Width: 600
+Flags: W
+HStem: 765 155.344
+VStem: 265 113.325
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 72 67 S 1 0 0 1 0 0 2
+Refer: 668 -1 N 1 0 0 1 24.3331 138 2
+EndChar
+
+StartChar: cacute.pl
+Encoding: 65553 -1 671
+Width: 600
+Flags: W
+HStem: 618.844 207.269
+VStem: 265 120.655
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1 99 N 1 0 0 1 0 0 2
+Refer: 669 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Nacute.pl
+Encoding: 65554 -1 672
+Width: 600
+Flags: W
+HStem: 765 155.344
+VStem: 265 113.325
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 46 78 N 1 0 0 1 0 0 2
+Refer: 668 -1 N 1 0 0 1 24.3331 138 2
+EndChar
+
+StartChar: nacute.pl
+Encoding: 65555 -1 673
+Width: 600
+Flags: W
+HStem: 618.844 207.269
+VStem: 265 120.655
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 6 110 N 1 0 0 1 0 0 2
+Refer: 669 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Oacute.pl
+Encoding: 65556 -1 674
+Width: 600
+Flags: W
+HStem: 765 155.344
+VStem: 265 113.325
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 42 79 N 1 0 0 1 0 0 2
+Refer: 668 -1 N 1 0 0 1 24.3331 138 2
+EndChar
+
+StartChar: oacute.pl
+Encoding: 65557 -1 675
+Width: 600
+Flags: W
+HStem: 618.844 207.269
+VStem: 265 120.655
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 5 111 N 1 0 0 1 0 0 2
+Refer: 669 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Sacute.pl
+Encoding: 65558 -1 676
+Width: 600
+Flags: W
+HStem: 765 155.344
+VStem: 265 113.325
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 50 83 N 1 0 0 1 0 0 2
+Refer: 668 -1 N 1 0 0 1 24.3331 138 2
+EndChar
+
+StartChar: sacute.pl
+Encoding: 65559 -1 677
+Width: 600
+Flags: W
+HStem: 618.844 207.269
+VStem: 265 120.655
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 3 115 N 1 0 0 1 0 0 2
+Refer: 669 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Zacute.pl
+Encoding: 65560 -1 678
+Width: 600
+Flags: W
+HStem: 765 155.344
+VStem: 265 113.325
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 96 90 N 1 0 0 1 0 0 2
+Refer: 668 -1 N 1 0 0 1 24.3331 138 2
+EndChar
+
+StartChar: zacute.pl
+Encoding: 65561 -1 679
+Width: 600
+Flags: W
+HStem: 618.844 207.269
+VStem: 265 120.655
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 69 122 N 1 0 0 1 0 0 2
+Refer: 669 -1 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
