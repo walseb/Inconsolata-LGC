@@ -7,21 +7,20 @@ Copyright: Original Roman version created by Raph Levien using his own tools and
 UComments: "2005-8-26: Created." 
 Version: 1.2
 ItalicAngle: -10
-UnderlinePosition: -102.4
-UnderlineWidth: 51.2
+UnderlinePosition: -102
+UnderlineWidth: 51
 Ascent: 840
 Descent: 184
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-NeedsXUIDChange: 1
 XUID: [1021 77 1780377399 11264577]
 FSType: 8
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1161020814
-ModificationTime: 1367767560
+ModificationTime: 1368358143
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -43,6 +42,7 @@ HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
 Lookup: 1 0 0 "Polish kreska forms"  {"Polish kreska forms-1" ("pl" ) } ['loca' ('latn' <'PLK ' > ) ]
+Lookup: 1 0 0 "Romanian comma accent"  {"Romanian comma accent-1"  } ['locl' ('latn' <'MOL ' 'ROM ' > ) ]
 Lookup: 1 0 0 "Macedonian-Serbian Italic"  {"Macedonian-Serbian Italic subtable" ("mkd" ) } ['locl' ('cyrl' <'MKD ' 'SRB ' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -54,7 +54,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 432 16 4
+WinInfo: 304 16 4
 BeginPrivate: 6
 BlueValues 31 [-14 0 542 555 739 748 767 796]
 OtherBlues 11 [-206 -198]
@@ -83,7 +83,7 @@ Grid
  416.256 939.008 l 25
 EndSplineSet
 TeXData: 1 0 0 629145 314572 209715 554697 1048576 209715 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65562 680
+BeginChars: 65562 684
 
 StartChar: a
 Encoding: 97 97 0
@@ -4769,6 +4769,7 @@ LayerCount: 2
 Fore
 Refer: 50 83 N 1 0 0 1 0 0 2
 Refer: 201 184 N 1 0 0 1 -38 0 2
+Substitution2: "Romanian comma accent-1" Scommaaccent
 EndChar
 
 StartChar: Tcaron
@@ -4996,6 +4997,7 @@ LayerCount: 2
 Fore
 Refer: 59 84 N 1 0 0 1 0 0 2
 Refer: 201 184 S 1 0 0 1 -45 0 2
+Substitution2: "Romanian comma accent-1" uni021A
 EndChar
 
 StartChar: aogonek
@@ -5239,6 +5241,7 @@ LayerCount: 2
 Fore
 Refer: 3 115 N 1 0 0 1 0 0 2
 Refer: 201 184 S 1 0 0 1 -31 0 2
+Substitution2: "Romanian comma accent-1" scommaaccent
 EndChar
 
 StartChar: tcedilla
@@ -5249,6 +5252,7 @@ LayerCount: 2
 Fore
 Refer: 8 116 N 1 0 0 1 0 0 2
 Refer: 201 184 N 1 0 0 1 20 0 2
+Substitution2: "Romanian comma accent-1" uni021B
 EndChar
 
 StartChar: uring
@@ -13803,6 +13807,46 @@ LayerCount: 2
 Fore
 Refer: 69 122 N 1 0 0 1 0 0 2
 Refer: 669 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Scommaaccent
+Encoding: 536 536 680
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 328 900 S 1 0 0 1 -142.825 -810 2
+Refer: 50 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: scommaaccent
+Encoding: 537 537 681
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 328 900 S 1 0 0 1 -142.825 -810 2
+Refer: 3 115 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni021A
+Encoding: 538 538 682
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 328 900 S 1 0 0 1 -142.825 -810 2
+Refer: 59 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni021B
+Encoding: 539 539 683
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 328 900 S 1 0 0 1 -142.825 -810 2
+Refer: 8 116 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

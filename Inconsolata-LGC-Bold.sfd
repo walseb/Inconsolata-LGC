@@ -7,21 +7,20 @@ Copyright: Original Roman version created by Raph Levien using his own tools and
 UComments: "2005-8-26: Created." 
 Version: 1.2
 ItalicAngle: 0
-UnderlinePosition: -102.4
-UnderlineWidth: 51.2
+UnderlinePosition: -102
+UnderlineWidth: 51
 Ascent: 840
 Descent: 184
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-NeedsXUIDChange: 1
 XUID: [1021 77 1780377399 11264577]
 FSType: 8
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1161020814
-ModificationTime: 1367767024
+ModificationTime: 1368358354
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -43,6 +42,7 @@ HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
 Lookup: 1 0 0 "Polish kreska forms"  {"Polish kreska forms-1" ("pl" ) } ['locl' ('latn' <'PLK ' > ) ]
+Lookup: 1 0 0 "Romanian comma accent"  {"Romanian comma accent-1"  } ['locl' ('latn' <'MOL ' 'ROM ' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 432 16 4
+WinInfo: 304 16 4
 BeginPrivate: 6
 BlueValues 31 [-14 0 542 555 739 748 767 796]
 OtherBlues 11 [-206 -198]
@@ -82,7 +82,7 @@ Grid
  416.256 939.008 l 25
 EndSplineSet
 TeXData: 1 0 0 629145 314572 209715 554697 1048576 209715 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65556 674
+BeginChars: 65556 678
 
 StartChar: a
 Encoding: 97 97 0
@@ -203,7 +203,7 @@ SplineSet
  480 362 l 1
  470 365 l 0
  463 367 452 375 452 390 c 0
- 452 392 452 392 452 392 c 1
+ 452 392 l 1
  433 417 384 460 314 460 c 0
  255 460 215 433 215 405 c 0
  215 394 220 374 260 356 c 0
@@ -638,7 +638,7 @@ SplineSet
  554 612 l 1
  545 612 l 0
  534 612 521 622 520 637 c 1
- 520 640 520 641 520 641 c 1
+ 520 641 l 1
  519 642 l 1
  519 643 l 0
  499 674 461 698 414 698 c 0
@@ -1291,7 +1291,7 @@ SplineSet
  539 423 458 346 404 298 c 0
  354 254 278 190 220 103 c 1
  503 103 l 0
- 504 103 504 103 504 103 c 1
+ 504 103 l 1
  505 104 504 104 505 105 c 0
  506 106 518 119 536 113 c 0
  547 109 l 1
@@ -1447,7 +1447,7 @@ SplineSet
  115 204 l 1
  128 197 l 2
  143 189 142 173 142 172 c 0
- 142 170 142 169 142 169 c 1
+ 142 169 l 1
  142 169 l 2
  172 131 230 93 306 93 c 0
  406 93 452 154 452 207 c 0
@@ -1908,7 +1908,7 @@ SplineSet
  199 788 l 1
  202 776 l 0
  205 760 193 749 192 747 c 0
- 191 745 191 745 191 745 c 1
+ 191 745 l 1
  191 745 190 744 190 742 c 0
  190 313 l 1
  442 546 l 1
@@ -1989,7 +1989,7 @@ SplineSet
  127 207 l 1
  138 202 l 0
  155 195 153 177 153 177 c 0
- 153 176 153 175 153 175 c 1
+ 153 175 l 1
  181 146 223 121 273 112 c 1
  273 336 l 1
  254 342 236 349 217 358 c 0
@@ -2369,7 +2369,7 @@ SplineSet
  173 740 l 1
  175 727 l 2
  177 711 167 701 165 698 c 0
- 164 697 164 697 164 697 c 2
+ 164 697 l 2
  164 696 164 695 164 694 c 2
  164 423 l 1
  452 747 l 1
@@ -2567,7 +2567,7 @@ SplineSet
  497 418 l 1
  485 426 l 0
  472 435 473 448 473 449 c 0
- 473 454 473 457 473 457 c 1
+ 473 457 l 1
  473 457 472 457 472 458 c 0
  461 471 437 490 408 502 c 1
  358 138 l 1
@@ -3846,7 +3846,7 @@ SplineSet
  490 569 447 531 430 517 c 0
  387 477 333 449 277 395 c 1
  457 395 l 0
- 458 395 458 395 458 395 c 1
+ 458 395 l 1
  459 396 458 395 459 396 c 0
  460 397 472 411 490 405 c 0
  501 401 l 1
@@ -4965,6 +4965,7 @@ LayerCount: 2
 Fore
 Refer: 50 83 N 1 0 0 1 0 0 2
 Refer: 201 184 N 1 0 0 1 -38 0 2
+Substitution2: "Romanian comma accent-1" Scommaaccent
 EndChar
 
 StartChar: Tcaron
@@ -5192,6 +5193,7 @@ LayerCount: 2
 Fore
 Refer: 59 84 N 1 0 0 1 0 0 2
 Refer: 201 184 S 1 0 0 1 -45 0 2
+Substitution2: "Romanian comma accent-1" uni021A
 EndChar
 
 StartChar: aogonek
@@ -5440,6 +5442,7 @@ LayerCount: 2
 Fore
 Refer: 3 115 N 1 0 0 1 0 0 2
 Refer: 201 184 S 1 0 0 1 -31 0 2
+Substitution2: "Romanian comma accent-1" scommaaccent
 EndChar
 
 StartChar: tcedilla
@@ -5450,6 +5453,7 @@ LayerCount: 2
 Fore
 Refer: 8 116 N 1 0 0 1 0 0 2
 Refer: 201 184 N 1 0 0 1 20 0 2
+Substitution2: "Romanian comma accent-1" uni021B
 EndChar
 
 StartChar: uring
@@ -10478,7 +10482,7 @@ SplineSet
  554 612 l 1
  545 612 l 0
  534 612 521 622 520 637 c 1
- 520 640 520 641 520 641 c 1
+ 520 641 l 1
  519 642 l 1
  519 643 l 0
  499 674 461 698 414 698 c 0
@@ -14058,6 +14062,46 @@ LayerCount: 2
 Fore
 Refer: 69 122 N 1 0 0 1 0 0 2
 Refer: 663 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Scommaaccent
+Encoding: 536 536 674
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 328 900 S 1 0 0 1 0 -810 2
+Refer: 50 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: scommaaccent
+Encoding: 537 537 675
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 328 900 S 1 0 0 1 0 -810 2
+Refer: 3 115 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni021A
+Encoding: 538 538 676
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 328 900 S 1 0 0 1 0 -810 2
+Refer: 59 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni021B
+Encoding: 539 539 677
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 328 900 S 1 0 0 1 0 -810 2
+Refer: 8 116 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
