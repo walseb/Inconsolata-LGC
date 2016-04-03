@@ -11640,8 +11640,8 @@ Width: 600
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 596 9472 N 1 0 0 1 -17.6327 -100 2
-Refer: 596 9472 S 1 0 0 1 17.6327 100 2
+Refer: 596 9472 S 1 0 0 1 0 100 2
+Refer: 596 9472 N 1 0 0 1 0 -100 2
 EndChar
 
 StartChar: SF240000
